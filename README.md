@@ -1,2 +1,2 @@
-Hello
+Hello.
 I can program things... Sometimes... When I feel like it... 
